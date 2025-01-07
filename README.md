@@ -67,9 +67,12 @@ The objective is to build a robust model capable of identifying fraudulent trans
 - Implemented various machine learning models:
   - Logistic Regression
   - Random Forest
-  - Gradient Boosting (XGBoost)
-  - Neural Networks
+  - Decision Tree
+  - XGBoost
+  - LightGBM
   - CatBoost
+  - SVM
+    
 - Evaluated performance using metrics like accuracy, precision, recall, F1-score, and AUC-ROC.
 
 ### 4. Model Evaluation
