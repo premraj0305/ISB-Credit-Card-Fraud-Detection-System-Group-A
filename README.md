@@ -44,7 +44,7 @@ The objective is to build a robust model capable of identifying fraudulent trans
 - Visualized transaction amount trends and time-based patterns.
 - Applied standardization to numerical features.
 - Addressed the class imbalance using oversampling techniques (e.g., SMOTE).
-- 
+  
 - **Correlation Heatmap**:
   - Analyzed correlations between features and the target variable.
   - Identified features most related to fraudulent transactions.
