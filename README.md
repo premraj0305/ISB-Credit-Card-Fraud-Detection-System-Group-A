@@ -1,13 +1,14 @@
 # Credit Card Fraud Detection
 
-#Team members
-      Prarthana G                      
-      Prem Raj P
-      Shailesh KR                      
-      Ashvini Kumar
-      Sri Lalitha B                        
-      Mansi Ranjan Gupta
-      Oleti Chandini
+Team members
+
+      1. Prem Raj P                      
+      2. Prarthana G
+      3. Shailesh KR                      
+      4. Ashvini Kumar
+      5. Sri Lalitha B                        
+      6. Mansi Ranjan Gupta
+      7. Oleti Chandini
 
 
 ## Overview
