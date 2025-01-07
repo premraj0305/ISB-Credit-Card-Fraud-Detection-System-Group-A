@@ -1,5 +1,15 @@
 # Credit Card Fraud Detection
 
+#Team members
+      Prarthana G                      
+      Prem Raj P
+      Shailesh KR                      
+      Ashvini Kumar
+      Sri Lalitha B                        
+      Mansi Ranjan Gupta
+      Oleti Chandini
+
+
 ## Overview
 This project aims to classify credit card transactions as fraudulent or non-fraudulent using machine learning techniques. The dataset used for this project is the "Credit Card Fraud Detection" dataset from Kaggle, which contains anonymized features and transaction information.
 
