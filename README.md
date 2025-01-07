@@ -59,9 +59,6 @@ The objective is to build a robust model capable of identifying fraudulent trans
 - **Correlation Heatmap**:
   - Analyzed correlations between features and the target variable.
   - Identified features most related to fraudulent transactions.
-- **Recursive Feature Elimination (RFE)**:
-  - Iteratively removed less significant features based on model performance.
-  - Focused on reducing redundancy and improving model interpretability.
 
 ### 3. Model Development
 - Implemented various machine learning models:
