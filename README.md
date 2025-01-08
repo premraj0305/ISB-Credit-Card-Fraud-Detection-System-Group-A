@@ -25,12 +25,12 @@ The objective is to build a robust model capable of identifying fraudulent trans
   - 1: Fraudulent transactions (minority class)
 
 ## Dataset Overview
-- **Total Data**: 555,458
-- **Total Rows in Dataset**: 41,683
+- **Total Data**: 8,83,097
+- **Total Rows in Dataset**: 28487
 - **Columns**: 31
 - **Class Distribution in Raw Data**:
-  - Non-Fraudulent Transactions: 41,574
-  - Fraudulent Transactions: 108
+  - Non-Fraudulent Transactions: 284315
+  - Fraudulent Transactions: 495
 
 ## Dependencies
 - Python
