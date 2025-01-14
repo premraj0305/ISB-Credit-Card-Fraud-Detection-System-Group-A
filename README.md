@@ -2,13 +2,14 @@
 
 Team members
 
-      1. Prem Raj P                      
-      2. Prarthana G
-      3. Shailesh KR                      
-      4. Ashvini Kumar
-      5. Sri Lalitha B                        
-      6. Mansi Ranjan Gupta
-      7. Oleti Chandini
+     Colobrator 
+            Prem Raj - https://github.com/premraj0305
+            Ashvini Kumar - https://github.com/ASHVINI-KUMAR07
+            SRI LALITHA BOLLOJU - https://github.com/sri92366
+            Prarthana - https://github.com/Prarthanaa-G
+            Shailesh K R - https://github.com/Shailesh7772
+            Mansi Ranjan Gupta - https://github.com/mansi3013gupta
+            Oleti Chandini - https://github.com/ChandiniOleti
 
 
 ## Overview
